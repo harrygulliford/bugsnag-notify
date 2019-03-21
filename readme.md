@@ -4,7 +4,7 @@ Bugsnag Notify is a tiny Docker container, based on [alpine](https://hub.docker.
 
 ## Usage
 ```
-docker run harrygulliford/bugnsnag-notify
+docker run harrygulliford/bugsnag-notify
 ```
 
 ### Environment Variables
