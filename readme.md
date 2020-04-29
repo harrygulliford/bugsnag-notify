@@ -1,3 +1,5 @@
+⚠️ This project is no longer receiving updates.
+
 # Bugsnag Notify
 
 Bugsnag Notify is a tiny Docker container, based on [alpine](https://hub.docker.com/_/alpine), that can be integrated into your CI/CD pipeline to inform Bugsnag of new builds and deployments for your application.
